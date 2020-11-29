@@ -1,3 +1,6 @@
 [submodule "template-vue2-vuetify2"]
 	path = template-vue2-vuetify2
 	url = https://github.com/xizher/template-vue2-vuetify2.git
+[submodule "template-vue3-antd"]
+	path = template-vue3-antd
+	url = https://github.com/xizher/template-vue3-antd.git
